@@ -45,3 +45,15 @@ npm run build
 npm run lint
 ```
 # vue-3-favorite-artists
+
+How to execute a application?
+
+### Execute json-serve command
+
+```sh
+json-server --watch db.json
+```
+
+DONE!! :)
+
+Enjoy 

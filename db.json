@@ -1,0 +1,28 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Paul McCartney",
+      "location": "London, England",
+      "imageUrl": "https://trecobox.com.br/wp-content/uploads/2023/08/trecobox.com.br-paul-mccartney-explorando-as-melhores-cancoes-da-sua-carreira-solo-paul-mccartney.png.webp"
+    },
+    {
+      "name": "Paramore",
+      "location": "Nashville, EUA",
+      "imageUrl": "https://portalpopline.com.br/wp-content/uploads/2022/04/Paramore.jpg",
+      "id": 2
+    },
+    {
+      "name": "Kings of leon",
+      "location": "Nashville, EUA",
+      "imageUrl": "https://akamai.sscdn.co/tb/letras-blog/wp-content/uploads/2021/08/a22c605-kings-of-leon-1024x683.jpg",
+      "id": 3
+    },
+    {
+      "name": "Dua lipa",
+      "location": "London, England",
+      "imageUrl": "https://cebolaverde.com.br/wp-content/uploads/2022/09/Dua-Lipa.jpg",
+      "id": 4
+    }
+  ]
+}
